@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+  
+.container {
+    width: 100px;
+    height:100px;
+    background-color: rgb(58, 58, 219);
+    color: goldenrod;
+    background-image: url('/p/d42767cdc69ca9429916afcbd6080ef5_t.gif');
+    background-size: cover
+}
+.container button{
+    font-family: 'Limelight', cursive;
+}
+
+/* .item { 
+    border: 1px solid #aaa;
+    padding: 1rem;
+  }
+  
+  .selected {
+    background-color: #aaa;
+  }
+#main-menu div:hover{
+    color: fuchsia;
+    font-size:25px;
+    cursor: pointer;
+} */
